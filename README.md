@@ -1,6 +1,6 @@
 ### Hi there, I'm Ximena 👋
 
-I'm a full-stack developer, with a preference to work on the front end, passionate about technology, learning and teaching. I used to work as an architect, but I decided to transition into the tech industry as soon as I ccoded my first lines, while creating the architale.org platform.
+I'm a full-stack developer, with a preference to work on the front end, passionate about technology, learning and teaching. I used to work as an architect, but I decided to transition into the tech industry as soon as I discovered my passion for creating applications when I coded my first lines for the architale.org platform.
 <!--
 **ximecalderon/ximecalderon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
