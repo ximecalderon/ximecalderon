@@ -7,4 +7,3 @@
 - 📫 You can contact me at
     - My [linkedin](https://linkedin.com/in/ximecalderon/) for work 💼
     - My [steam profile](https://steamcommunity.com/profiles/76561198999729855/) for gaming 🎮
-    - My [email](mailto:mxcalderon@gmail.com) for any other matters 📩
