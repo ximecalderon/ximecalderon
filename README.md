@@ -1,8 +1,7 @@
 ### Hi there, I'm Ximena 👋
 - 🚀 I'm a full-stack web developer in love with ReactJS, so frontend is my preference
 - 🎨 I also teach about architecture representation (I'm an architect too) at Architale, a platform I created when I didn't know about programming yet. Watch me [here](https://youtu.be/SxwKtZxZfCQ)
-- 💻 I’m currently working at OpeenLoop as a Frontend Engineer
-- 👯 And looking to collaborate on projects that'll let me play with React, and get better at GraphQL and Typescript
+- 💻 I’m currently working at OpeenLoop as a Software Engineer
 - 💖 I also like trekking, biking, cooking and eating, gaming and discovering people philosophies about life 🍻
 - 📫 You can contact me at
     - My [linkedin](https://linkedin.com/in/ximecalderon/) for work 💼
