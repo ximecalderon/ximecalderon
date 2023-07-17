@@ -1,8 +1,7 @@
 ### Hi there, I'm Ximena 👋
-- 🚀 I'm a bilingual full-stack web developer
-- 🎨 I also teach about architecture representation (worked as an architect before becoming a dev) at Architale, a platform I created when I didn't know about programming yet. Watch me [here](https://youtu.be/SxwKtZxZfCQ)
-- 💻 I’m currently working at OpeenLoop as a Software Engineer
-- 💖 I also like trekking, biking, cooking and eating, gaming and discovering people philosophies about life 🍻
+- 🚀 I'm a bilingual full-stack web developer based on Lima, Peru, currently working as a Software Engineer @Openloop
+- 🎨 I also teach about architecture representation (worked as an architect/architecture illustrator before becoming a dev) at Architale, a platform I created when I didn't know about programming yet. Watch me [here](https://youtu.be/SxwKtZxZfCQ)
+- 💖 I also like trekking, biking, weightlifting, cooking and eating, gaming and discovering people philosophies about life 🍻
 - 📫 You can contact me at
     - My [linkedin](https://linkedin.com/in/ximecalderon/) for work 💼
     - My [steam profile](https://steamcommunity.com/profiles/76561198999729855/) for gaming 🎮
