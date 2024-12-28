@@ -1,5 +1,5 @@
 ### Hi there, I'm Ximena 👋
-Software Engineer, full-stack web development instructor, gamer, weightlifting irregular, pro homecook and outdoor enthusiast
+A software Engineer, full-stack web development instructor, decent gamer, weightlifting irregular, pro homecook and outdoor enthusiast
 
 Fun facts:
 - 🎨 I used to work as an architect, and got into coding and AWS by creating a web platform about architecture representation. Watch me teach [here](https://youtu.be/SxwKtZxZfCQ)
